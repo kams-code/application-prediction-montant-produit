@@ -1,0 +1,10 @@
+{
+  "montant_mean": 602.0226000000001,
+  "montant_std": 539.2801411039825,
+  "montant_min": 19.25,
+  "montant_max": 2408.95,
+  "n_samples": 100,
+  "n_clients": 28,
+  "n_produits": 47,
+  "n_categories": 7
+}
